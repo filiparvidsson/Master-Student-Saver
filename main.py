@@ -375,11 +375,11 @@ def put_values_in_array(array, value, length):
 atHome = False
 
 if not atHome:
-    ssid = 'Bråviken'
-    password = 'overlord'
+    ssid = 'XXXX'
+    password = 'XXXX'
 else:
-    ssid = 'o2-WLAN72'
-    password = 'pelikan123'
+    ssid = 'XXXX'
+    password = 'XXXX'
 
 # Initialize the pin and the sensor
 pin = Pin("LED", Pin.OUT)
